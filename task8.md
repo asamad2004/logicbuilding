@@ -17,6 +17,11 @@ for variable in sequence:
 for number in range(1, 6):  
     print(number)
 ```
+## Explanation:
+- range(1, 6) generates numbers from 1 to 5 (the last number 6 is not included).
+- for number in range(1, 6): loops through each number in the range.
+- print(number) prints each number on a new line.
+
 ## Best Practices:
 
 - Use `enumerate()` if you need index values.
