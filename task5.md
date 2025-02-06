@@ -31,14 +31,6 @@ project_status = {"topic": "Variables", "status": "Not Started"}
 
 ---
 
-## Practice:
-
-1. A **list** of learning topics.
-2. A **tuple** that holds elements of a mini-project.
-3. A **dictionary** to represent the status of a mini-project element.
-
----
-
 ## Best Practices:
 
 - **Lists**: Use lists when you need to store an ordered collection of items that you might need to **modify** (add/remove elements).
