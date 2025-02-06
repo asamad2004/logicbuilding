@@ -5,11 +5,17 @@
 ### Objective:
 A for loop is used to iterate over a sequence (list, tuple, string, dictionary, etc.).
 
-### Example:
+### Syntax:
 ```python
 for variable in sequence:
     for topic in learning_topics:
         # Code to execute in loop
+```
+### Example:
+```python
+# Using a for loop to print numbers from 1 to 5
+for number in range(1, 6):  
+    print(number)
 ```
 ## Best Practices:
 
