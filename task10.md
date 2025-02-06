@@ -1,6 +1,6 @@
 # Task 10: Functions – Definition and Basic Syntax
 
-## 🎯 Objective  
+##  Objective  
 Functions are a key concept in programming that help you avoid repetition and organize code efficiently.  
 
 ### **What will you learn?**  
@@ -29,7 +29,7 @@ def function_name():
 
 ---
 
-## 📌 Example of a Function  
+##  Example of a Function  
 ```python
 def greet():
     print("Hello! Welcome to the Checklist Reminder.")
@@ -37,7 +37,7 @@ def greet():
 # Function Call
 greet()
 ```
-🔹 **Note:** The function `greet()` is **defined once** but can be **called multiple times**.  
+ **Note:** The function `greet()` is **defined once** but can be **called multiple times**.  
 
 ---
 
